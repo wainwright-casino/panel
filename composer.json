@@ -1,7 +1,7 @@
 {
-  "name": "laravel/nova",
+  "name": "wainwright/panel",
   "replace": {
-    "wainwright/panel": "self.version"
+    "laravel/nova": "self.version"
   },
   "description": "A wonderful administration interface for Laravel.",
   "keywords": [
